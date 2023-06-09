@@ -1,2 +1,2 @@
 # bonjour
-first self wb upload 
+wb-version 1.0
